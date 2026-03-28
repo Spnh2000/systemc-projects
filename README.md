@@ -72,5 +72,4 @@ A 4-tap FIR filter: `yn = (xn + x0 + x1 + x2) / 4`. The shift register advances 
 ## Notes
 
 These projects were developed as part of the **SystemC and Virtual Prototyping (SCVP)** course at the University of Kaiserslautern (Dr.-Ing. Matthias Jung).
-# systemc-projects
-# systemc-projects
+
